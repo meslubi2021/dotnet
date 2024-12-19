@@ -1,3 +1,9 @@
+# Project name can start with `.` in Github
+
+Microsoft can host its [.Net][dotnet] project in Github with a name start with `.` actually.
+
+[dotnet]: https://github.com/microsoft/dotnet
+
 # .NET Home
 
 This repository is a starting point to learn about and engage in [.NET](https://dot.net) and .NET open source projects.
