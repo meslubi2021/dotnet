@@ -43,6 +43,7 @@ Please sort projects alphabetically and provide a one-line description. Where po
 
 ## Analytics and Error Reporting
 
+* [elmah.io](https://elmah.io/sponsorship/opensource/) - Error logging and uptime monitoring for .NET.
 * [Bugsnag](https://bugsnag.com/blog/bugsnag-loves-open-source) - Cross platform error reporting.
 * [countly](https://countly.com) - comprehensive product analytics platform needed to build outstanding and innovative products and the most privacy-conscious solution for mobile, 
    desktop, and web applications for all users.
